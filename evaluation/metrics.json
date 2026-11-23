@@ -1,0 +1,8 @@
+{
+  "test_accuracy": 0.9936,
+  "precision_macro": 0.9935299231670236,
+  "recall_macro": 0.993574834529211,
+  "f1_macro": 0.993547392949505,
+  "test_samples": 10000,
+  "classifier": "Convolutional Neural Network (CNN)"
+}
